@@ -13,8 +13,7 @@ Web Application Development
 (The assignment asked us to edit a tax calculator program. This program allowed for users to enter their income and their filing status in order to calculate their taxable income)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://lg1029.github.io/lesson5_javascript2/)
 
 ### Lessons Learned in the Assignment:
 1.(I learned how to take out segments of code and edit them to server a specific function.)
