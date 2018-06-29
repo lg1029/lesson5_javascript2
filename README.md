@@ -18,5 +18,7 @@ Web Application Development
 
 ### Lessons Learned in the Assignment:
 1.(I learned how to take out segments of code and edit them to server a specific function.)
+
 2.(I learned how to actively mitigate mistakes by reviewing the page's source and scanning the code directly for errors.)
+
 3.(I also learned how to clear elements on a page with a specific function to reset another function available to the end-users.)
